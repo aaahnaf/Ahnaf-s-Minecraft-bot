@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Bffserver.aternos.me",
-    "port": 50533,
+    "ip": "bffserver.falix.gg",
+    "port": 24921,
     "version": "",
     "try-creative": false
   },

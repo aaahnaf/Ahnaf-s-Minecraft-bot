@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "bffserver.falix.gg",
-    "port": 24921,
+    "port": 21337,
     "version": "",
     "try-creative": false
   },
